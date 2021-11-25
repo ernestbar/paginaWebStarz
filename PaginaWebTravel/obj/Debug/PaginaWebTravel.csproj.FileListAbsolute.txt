@@ -57,3 +57,6 @@ C:\GITHUB\PaginaWebTravel\PaginaWebTravel\obj\Debug\PaginaWebTravel.csproj.CoreC
 C:\GITHUB\PaginaWebTravel\PaginaWebTravel\obj\Debug\PaginaWebTravel.csproj.CopyComplete
 C:\GITHUB\PaginaWebTravel\PaginaWebTravel\obj\Debug\PaginaWebTravel.dll
 C:\GITHUB\PaginaWebTravel\PaginaWebTravel\obj\Debug\PaginaWebTravel.pdb
+C:\GITHUB\PaginaWebTravel\PaginaWebTravel\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\GITHUB\PaginaWebTravel\PaginaWebTravel\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\GITHUB\PaginaWebTravel\PaginaWebTravel\bin\Microsoft.Practices.ObjectBuilder.dll
