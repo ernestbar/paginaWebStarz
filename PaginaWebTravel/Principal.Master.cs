@@ -27,7 +27,10 @@ namespace PaginaWebTravel
                         dr1["DETALLE"] = dr["DESCRIPCION"].ToString()+".ASPX";
                         dt.Rows.Add(dr1);
                     }
-                    
+                    if (dr["DESC_TIPO"].ToString() == "ICONO")
+                    {
+                        imgLogoEnzabezado.ImageUrl = "http://10.10.10.15/testA" + dr["DESCRIPCION"].ToString();
+                    }
 
                 }
                 Repeater1.DataSource = dt;

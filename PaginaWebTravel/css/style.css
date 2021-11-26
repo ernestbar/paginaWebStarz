@@ -30,10 +30,10 @@ a {
   -o-transition: 0.5s, ease;
   transition: 0.5s, ease;
 }
-a:hover {
-  text-decoration: none;
-  color: #F78536;
-}
+    a:hover {
+        text-decoration: none;
+        color: #36aaf7;/*#F78536;*/
+    }
 
 p, ul, ol {
   margin-bottom: 1.5em;
